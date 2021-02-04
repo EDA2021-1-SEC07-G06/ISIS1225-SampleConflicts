@@ -42,7 +42,7 @@ def printMenu():
     print("Opciones:")
     print("1- Cargar Libros")
     print("2- Cargar Tags")
-    # TO-DO: Modificación de Est-1 en el Lab 2
+    print("3- Cargar Book-Tags!")
     print("0- Salir")
 
 
@@ -63,7 +63,7 @@ def loadBookTags():
     """
     Cargar los Tags de libros
     """
-    # TO-DO: Modificación de Est-1 en el Lab 2
+    print('Primer libro cargado: ' + str(lt.firstElement(books)))
 
 
 """
