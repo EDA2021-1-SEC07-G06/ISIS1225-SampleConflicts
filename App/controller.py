@@ -54,4 +54,5 @@ def loadTags(filename):
 
 def loadBooksTags(catalog):
     # TO-DO: Modificación de Est-1 y Est-2 en el Lab 2
-    return controller.loadBooks('GoodReads/book_tags-small.csv')
+    booktagsfile = cf.data_dir + catalog
+    return model.addBooksTags(booktagsfile)
