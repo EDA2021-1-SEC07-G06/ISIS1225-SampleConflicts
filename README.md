@@ -1,7 +1,12 @@
 #ISIS1225 - Estructura de un proyecto
 
 Estudiante 1: Alejandra Melo
+a.melo4@uniandes.edu.co
+202021526
+
 Estudiante 2: Obed Cabanzo
+jo.cabanzo@uniandes.edu.co
+201911749
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
